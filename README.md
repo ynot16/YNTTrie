@@ -1,2 +1,2 @@
 # YNTTrie
-An Dictionary Trie used for searching, #functional swift#
+A Dictionary Trie used for searching, #functional swift#
